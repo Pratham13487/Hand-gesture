@@ -1,0 +1,70 @@
+body
+{
+  color: rgb(1, 8, 6);
+  background: #08266e;
+  font-family: 'Caveat', cursive;
+  letter-spacing: 3px;
+  font-size: 25px;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #snapshot
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+  color: rgb(235, 54, 84);
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+.heading{
+  background-color: blueviolet;
+  color: cyan;
+  font-size: 35px;
+  letter-spacing: 5px;
+  border-radius: 10px;
+  font-family: 'Lobster', cursive;
+}
+label{
+  background-color: white;
+  padding: 6px;
+  border-radius: 10px;
+  font-size: 15px;
+}
+.buttons{
+  background-color: aqua;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+hand emoji", confidence: 0.3827052712440491}
+1: {label: "Rock emoji", confidence: 0.3629056513309479}
+2: {label: "thumbs up emoji"hand emoji", confidence: 0.3827052712440491}
+1: {label: "Rock emoji", confidence: 0.3629056513309479}
+2: {label: "thumbs up emoji"
